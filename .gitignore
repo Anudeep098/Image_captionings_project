@@ -1,0 +1,15 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dataset / model folders
+data/
+model/
+models/
+
+# Temporary / system files
+*.DS_Store
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
