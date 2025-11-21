@@ -26,3 +26,31 @@ This project generates captions for images using a deep learning model.
 3. Run inference: python inference.py
 4. For Output: streamlit run streamlit_app.py
 
+🛠️ Technologies Used
+
+Here are the main technologies and tools I used to build this Image Captioning project:
+
+🐍 Python – Core programming language
+
+🔥 PyTorch – For building and training the deep learning model
+
+🧠 CNN (ResNet / VGG) – Used for extracting image features
+
+✍️ RNN / LSTM – Used for generating captions word by word
+
+🏋️ TorchVision – For loading pretrained image models
+
+🔡 NLTK / Text Processing – Used for cleaning text and creating vocabulary
+
+📦 Pickle (pkl) – For saving the vocabulary
+
+🖼️ PIL / OpenCV – For handling and preprocessing images
+
+📊 Matplotlib – For visualizing samples (optional)
+
+🌐 Streamlit – For creating a simple web app to test the model
+
+🗂️ COCO / Flickr8k Dataset – Dataset used for training captions
+
+🧰 NumPy & Pandas – For data handling and processing
+
